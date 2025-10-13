@@ -1,0 +1,7 @@
+The capital city of the USA is New York.	false	Washington DC?
+Maine is the closest US state to Africa.	true	Maine is located in the northeastern corner of the USA.
+Morocco is in Europe.	false	Morocco serves as a cultural bridge between Europe and Africa.
+Japan has square watermelons.	true	Really?!
+2024 is a leap year.	true	How to determine if a year is a leap year or not?
+my name is J.	true	yeah~
+my age is 99.	false	yeach~

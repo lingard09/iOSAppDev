@@ -50,7 +50,7 @@ temp = temp + String(c1)
 var x = 3.14
 var y: Int
 y = Int(x) // remove under point
-print(x, y, "pi \(x)") // by using back slash, can print more than 1 var
+print(x, y, "pi \(x) \(y)") // by using back slash, can print more than 1 var
 
 print(Int.max)
 print(Int8.max) // 8-bit max value
@@ -62,7 +62,7 @@ var under = 1_000 // = 1000
 var d: Float = 0.0
 var d1 = 1.0
 
-var b = true // not Boolean, yes Bool
+var b:Bool = true // not Boolean, yes Bool
 b.toggle() // swap value
 print(x, d, d1, b, separator: " | ")
 print(x, d, d1, b, separator: "*", terminator: "??")
