@@ -90,7 +90,5 @@ class ViewController: UIViewController, UITextFieldDelegate {
         subLabel.adjustsFontSizeToFitWidth = true
                 
     }
-
-
 }
 
